@@ -19,7 +19,7 @@
    sin interactuar activamente con una de las partes.
 
  Uso:
-   python speke_protocol.py
+   python seguridad.py
 
  Requisitos:
    Python 3.7+  (sin dependencias externas)
